@@ -1,5 +1,5 @@
 
-package com.universidad.guia1taller.negocio.modelo;
+package com.universidad.guia1taller.modelo;
 
 /**
  *
